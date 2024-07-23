@@ -1,1 +1,1 @@
-Update bot version 1.0
+Update bot version 1.1
